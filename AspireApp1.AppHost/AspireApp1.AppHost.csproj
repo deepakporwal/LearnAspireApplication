@@ -9,4 +9,8 @@
     <UserSecretsId>48d85108-bdff-4b46-95b4-7e198250b49b</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.Keycloak" Version="13.5.4-preview.1.26464.4" />
+  </ItemGroup>
+
 </Project>
